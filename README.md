@@ -52,3 +52,4 @@ This project is currently in the **Software Logic & Architectural Design** phase
 ---
 **Author:** [Tifsihit Zelealem]  
 *Supporting Ethiopia's Digital Sovereignty through Advanced Assistive Tech.*
+#computer-vision
